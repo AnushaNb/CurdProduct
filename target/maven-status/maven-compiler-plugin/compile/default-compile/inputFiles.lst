@@ -1,0 +1,8 @@
+/Users/anusha/Downloads/aws-java-products-api-master/src/main/java/com/serverless/ApiGatewayResponse.java
+/Users/anusha/Downloads/aws-java-products-api-master/src/main/java/com/serverless/Response.java
+/Users/anusha/Downloads/aws-java-products-api-master/src/main/java/com/serverless/dal/Product.java
+/Users/anusha/Downloads/aws-java-products-api-master/src/main/java/com/serverless/GetProductHandler.java
+/Users/anusha/Downloads/aws-java-products-api-master/src/main/java/com/serverless/ListProductsHandler.java
+/Users/anusha/Downloads/aws-java-products-api-master/src/main/java/com/serverless/dal/DynamoDBAdapter.java
+/Users/anusha/Downloads/aws-java-products-api-master/src/main/java/com/serverless/CreateProductHandler.java
+/Users/anusha/Downloads/aws-java-products-api-master/src/main/java/com/serverless/DeleteProductHandler.java
